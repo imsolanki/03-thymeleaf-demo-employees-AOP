@@ -1,7 +1,7 @@
-package com.luv2code.springboot.thymeleafdemo.service;
+package com.huntcode.springboot.thymeleafdemo.service;
 
-import com.luv2code.springboot.thymeleafdemo.dao.EmployeeRepository;
-import com.luv2code.springboot.thymeleafdemo.entity.Employee;
+import com.huntcode.springboot.thymeleafdemo.dao.EmployeeRepository;
+import com.huntcode.springboot.thymeleafdemo.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
